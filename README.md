@@ -1,1 +1,1 @@
-# Connect 4 By Mina Robir in Python
+# Project Connect 4 Game Powered by Python
